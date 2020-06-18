@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{8930DFAA-4027-5EF3-A711-1A71C1DF60EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Systems/PointerDragSystem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Systems/InputCollector.cs" Line="31" Column="15" />
+      <File FileName="Assets/Scripts/Systems/PointerDragSystem.cs" Line="111" Column="29" />
+      <File FileName="Assets/Scripts/Systems/PointerSystemBase.cs" />
+      <File FileName="Assets/Scripts/Components/UI.cs" />
+      <File FileName="Assets/Scripts/UITools/ConvertTextToTexture.cs" />
+      <File FileName="Assets/Scripts/UITools/GenerateMuseum.cs" />
+      <File FileName="Assets/Scripts/Systems/ScaleSystem.cs" />
+      <File FileName="Assets/Scripts/Systems/MoveSystem.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TinyGallery" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Components" expanded="True" />
+                <Node name="Systems" expanded="True">
+                  <Node name="PointerDragSystem.cs" selected="True" />
+                </Node>
+                <Node name="UITools" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1be2762e-3296-4388-8048-fe3b2e12c1af" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TinyPhysics PreferredExecutionTarget="f8b0ff02-016d-4deb-8e4e-47f017817b44" />
+</Properties>
